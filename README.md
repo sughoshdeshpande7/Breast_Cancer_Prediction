@@ -3,11 +3,11 @@
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Wisconsin%20Breast%20Cancer-red?logo=kaggle)](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 * Built a model that accepts cell nucleus values features of a breast cancer tumor as input and predicts if the cancer is Benign or Malignant.
-* Model is trained on a dataset of 570 Breast Cancer Images.
+* Model is trained on a dataset of 570 Breast Cancer Images from the Kaggle Wisconsin UCI Breast Cancer dataset.
 * Data was trained on 5 different models. K-fold cross-validation was performed to validate for overfitting and a final trained Support Vector Machine (SVM) model was used to build the predictor.
 
 ## Code and Resources used  
-![Libraries Badge](https://img.shields.io/badge/Libraries-NumPy,Pandas,Matplotlib,Sklearn,Seaborn,Selenium,Pickle-blue?logo=python) <br>
+![Libraries Badge](https://img.shields.io/badge/Libraries-NumPy|Pandas|Matplotlib|Sklearn|Seaborn|Selenium|Pickle-blue?logo=python) <br>
 [![GitHub Notebook](https://img.shields.io/badge/GitHub-Notebook-181717?logo=github)](https://github.com/Inyrkz/breast_cancer/blob/main/k_fold_cv_article_guide.ipynb)
 [![YouTube Video](https://img.shields.io/badge/YouTube-Watch%20Now-darkred?logo=youtube)](https://www.youtube.com/watch?v=NSSOyhJBmWY)
 [![Article](https://img.shields.io/badge/Article-Read%20Here-green)](https://www.section.io/engineering-education/how-to-implement-k-fold-cross-validation/)
