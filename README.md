@@ -1,5 +1,5 @@
 # Breast Cancer Predictor: Project Overview 
-![Top Language](https://img.shields.io/github/languages/top/sughoshdeshpande7/Breast_Cancer_Prediction?color=purple)
+![Computer Vision Project](https://img.shields.io/badge/Project-Computer%20Vision-purple?logo=python)
 [![Kaggle Dataset](https://img.shields.io/badge/Kaggle-Wisconsin%20Breast%20Cancer-red?logo=kaggle)](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
 
 * Built a model that accepts cell nucleus values features of a breast cancer tumor as input and predicts if the cancer is Benign or Malignant.
